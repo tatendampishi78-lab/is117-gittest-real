@@ -1,4 +1,1 @@
-- cd path/to/dir
-- cd ..   (up one)
-- cd ~    (home)
-- cd -    (previous dir)
+cd path/to/dir; cd .. (up one); cd ~ (home); cd - (previous dir).
