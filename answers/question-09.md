@@ -1,1 +1,1 @@
-mkdir creates a directory (use -p to create parents if needed).
+mkdir NAME creates a directory (use -p to create parent directories as needed).
