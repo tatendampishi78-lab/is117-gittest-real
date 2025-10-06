@@ -1,1 +1,1 @@
-cat prints file contents to the terminal (concatenates files to stdout).
+cat prints file contents to stdout (and can concatenate multiple files).
