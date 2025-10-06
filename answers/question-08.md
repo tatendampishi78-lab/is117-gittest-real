@@ -1,1 +1,1 @@
-ls -la shows all files incl. hidden (.), with permissions, owner, size, dates.
+ls -la lists all files including dotfiles with details: permissions, owner, size, dates.
